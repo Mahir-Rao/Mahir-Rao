@@ -19,37 +19,58 @@ I’ll add my certifications and tools here once I’ve mastered them — stay t
 
 ### 🚧 Projects
 
-#### 🔹 [AWS Project 1 – Portfolio Website Deployment](https://www.linkedin.com/posts/mahir-rao_aws-devops-cloudcomputing-activity-7379717985562787840-fS7R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG937gBSWNt3wUubSWuswvJnt3Nq04lDC4)
+<details>
+<summary>🔹 <b>AWS Project 1 – Portfolio Website Deployment</b></summary>
+
 Deployed my personal portfolio website on an **AWS EC2 instance** running Ubuntu.  
 Configured Apache, managed security groups (HTTP/SSH), and automated file deployment via SCP.  
 **Tech Stack:** AWS EC2 · Linux · Apache · Networking · System Administration  
+🔗 [View Project on LinkedIn](https://www.linkedin.com/posts/mahir-rao_aws-devops-cloudcomputing-activity-7379717985562787840-fS7R?utm_source=share&utm_medium=member_desktop)
+</details>
 
 ---
 
-#### 🔹 [AWS Project 2 – Multi-AZ High Availability Web Tier](https://www.linkedin.com/posts/mahir-rao_aws-cloudengineering-devops-activity-7380849759634452481-6DrV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG937gBSWNt3wUubSWuswvJnt3Nq04lDC4)
+<details>
+<summary>🔹 <b>AWS Project 2 – Multi-AZ High Availability Web Tier</b></summary>
+
 Designed and deployed a **fault-tolerant web architecture** with redundancy and automation.  
 Built a custom VPC, AMI, Auto Scaling Group, and Load Balancer for a production-ready environment.  
 **Tech Stack:** AWS VPC · EC2 · ALB · Auto Scaling · AMI · Security Groups  
+🔗 [View Project on LinkedIn](https://www.linkedin.com/posts/mahir-rao_aws-cloudengineering-devops-activity-7380849759634452481-6DrV?utm_source=share&utm_medium=member_desktop)
+</details>
 
 ---
 
-#### 🔹 [AWS Project 3 – Scalable Web App with Login System](https://www.linkedin.com/posts/mahir-rao_aws-cloudengineering-devops-activity-7382705650734292992-qGMM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG937gBSWNt3wUubSWuswvJnt3Nq04lDC4)
+<details>
+<summary>🔹 <b>AWS Project 3 – Scalable Web App with Login System</b></summary>
+
 Created a **multi-AZ scalable web app** featuring user login/signup and RDS MySQL integration.  
 Integrated sticky sessions, Load Balancer, and Auto Scaling for fault tolerance and persistence.  
 **Tech Stack:** AWS EC2 · RDS · ALB · Auto Scaling · PHP · MySQL  
+🔗 [View Project on LinkedIn](https://www.linkedin.com/posts/mahir-rao_aws-cloudengineering-devops-activity-7382705650734292992-qGMM?utm_source=share&utm_medium=member_desktop)
+</details>
 
 ---
 
-#### 🔹 [Terraform Project 1 – First IaC Deployment](https://www.linkedin.com/posts/mahir-rao_terraform-aws-devops-activity-7383907737061171200-FHfP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG937gBSWNt3wUubSWuswvJnt3Nq04lDC4)
+<details>
+<summary>🔹 <b>Terraform Project 1 – First IaC Deployment</b></summary>
+
 Automated the creation of an **EC2 instance and Security Group** using Terraform.  
 Understood the fundamentals of Infrastructure as Code and cloud resource automation.  
 **Tech Stack:** Terraform · AWS · IaC · Linux  
+🔗 [View Project on LinkedIn](https://www.linkedin.com/posts/mahir-rao_terraform-aws-devops-activity-7383907737061171200-FHfP?utm_source=share&utm_medium=member_desktop)
+</details>
 
 ---
 
-#### 🔹 [Terraform Project 2 – Modular IaC Infrastructure](https://www.linkedin.com/posts/mahir-rao_terraform-aws-iac-activity-7386095789200203777-mrHt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG937gBSWNt3wUubSWuswvJnt3Nq04lDC4)
+<details>
+<summary>🔹 <b>Terraform Project 2 – Modular IaC Infrastructure</b></summary>
+
 Built a **modular Terraform project** with reusable EC2 modules, data sources, variables, and outputs.  
-Learned modularization, dynamic 
+Learned modularization, dynamic AMI fetching, and scalable infrastructure design.  
+**Tech Stack:** Terraform · AWS · Modules · Variables · Automation  
+🔗 [View Project on LinkedIn](https://www.linkedin.com/posts/mahir-rao_terraform-aws-iac-activity-7386095789200203777-mrHt?utm_source=share&utm_medium=member_desktop)
+</details>
 
 ---
 
