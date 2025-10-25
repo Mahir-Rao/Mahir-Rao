@@ -90,7 +90,7 @@ Learned modularization, dynamic AMI fetching, and scalable infrastructure design
 ---
 
 ### 🧩 Quote
-> “Automate the ordinary, engineer the extraordinary.”
+> “Never quit. Progress starts where comfort ends.”
 
 ---
 
