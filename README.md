@@ -18,7 +18,7 @@ I’ll add my certifications and tools here once I’ve mastered them — stay t
 ---
 
 ### 🚧 Projects
-*(More projects coming soon — this section will showcase my favorite work once I upload them!)*
+
 #### 🔹 [AWS Project 1 – Portfolio Website Deployment](https://www.linkedin.com/posts/mahir-rao_aws-devops-cloudcomputing-activity-7379717985562787840-fS7R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG937gBSWNt3wUubSWuswvJnt3Nq04lDC4)
 Deployed my personal portfolio website on an **AWS EC2 instance** running Ubuntu.  
 Configured Apache, managed security groups (HTTP/SSH), and automated file deployment via SCP.  
