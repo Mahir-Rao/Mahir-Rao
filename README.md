@@ -5,8 +5,8 @@
 ---
 
 ### 🧠 About Me
-- 💻 I’m passionate about **learning and building** real-world infrastructure and automation projects.  
-- 🌱 Currently exploring **Git, GitHub, DevOps fundamentals, and Cloud technologies**.  
+- 🎓 Pursuing Bachelors in Computer Applications (BCA) from Chitkara University.
+- 🌩️ Currently exploring DevOps and Cloud tools  
 - 🎯 My goal: grow into a **skilled DevOps & Cloud Engineer** with a clean, efficient workflow.  
 - ⚡ Fun fact: I learn best when I break and fix things myself 😅  
 
